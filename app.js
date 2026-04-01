@@ -1,6 +1,1 @@
-console.log('This is the first change made by Dev2')
-console.log('This is the second change made by Dev2')
-console.log('This is edit made by Dev 1')
-console.log('1st change by Dev3')
-console.log('2nd change by Dev3')
-console.log('3rd change by Dev3')
+console.log('nigger')
